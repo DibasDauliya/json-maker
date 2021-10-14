@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "title": "Lorem ipsum dolor sit amet.",
+      "body": "789",
+      "id": 2
+    }
+  ]
+}
